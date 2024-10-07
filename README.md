@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Google-and-Yelp-Recomendaciones-PF-Henry-PT-09](https://github.com/psm545/Google-and-Yelp-Recomendaciones-PF-Henry-PT-09)
 
-- 🌱 I’m currently learning **SQL | Big Data | Docker | Hadoop**
+- 🌱 I’m currently learning **| Big Data | Docker | Hadoop |**
 
 - 💬 Ask me about **everything you want**
 
