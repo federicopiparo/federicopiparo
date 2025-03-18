@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico Piparo</h1>
-<h3 align="center">Data Science | Data Analyst | Data Engineer | Python | PowerBI | SQL | Big Data | Docker | Hadoop | Machine Learning | Business Intelligence | Análisis Predictivo | Visualización de Datos | ETL | Inteligencia Artificial</h3>
-
-- 🔭 I’m currently working on [Google-and-Yelp-Recomendaciones-PF-Henry-PT-09](https://github.com/psm545/Google-and-Yelp-Recomendaciones-PF-Henry-PT-09)
-
-- 🌱 I’m currently learning **| Big Data | Docker | Hadoop |**
-
-- 💬 Ask me about **everything you want**
+<h3 align="center">Data Science Jr.
+</h3>
 
 - 📫 How to reach me **federicopiparo@gmail.com**
 
